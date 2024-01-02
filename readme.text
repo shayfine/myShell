@@ -1,0 +1,8 @@
+*** Authors ***
+shay finegold - 311165609
+dan monsonego - 313577595
+
+*** how to run ***
+gcc -o main  myShell.c
+gcc -o tree  tree.c
+./main
